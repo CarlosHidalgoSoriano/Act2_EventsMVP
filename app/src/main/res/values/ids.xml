@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etDesc" type="id" />
+    <item name="etDate" type="id" />
+    <item name="etTitle" type="id" />
+    <item name="btCrear" type="id" />
+    <item name="spinner" type="id" />
+    <item name="tvResult" type="id" />
+    <item name="btErase" type="id" />
+</resources>
